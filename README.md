@@ -1,3 +1,29 @@
+# deepwiki-open
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源版 DeepWiki：为 GitHub、GitLab、Bitbucket 仓库生成 AI 驱动的 Wiki。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # DeepWiki-Open (Grok-Wiki)
 
 <img width="1536" height="1024" alt="grok-wiki" src="https://github.com/user-attachments/assets/1f569784-d1c8-479d-9a99-d3ef4ad3ec84" />
